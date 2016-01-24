@@ -1,0 +1,42 @@
+<game>
+	
+		
+	<path>./hsf2.zip</path>
+	
+		
+	<name>Street Fighter EX 2</name>
+	
+		
+	<desc>The original version of Street Fighter EX2 retains all the features from the previous game, Street Fighter EX Plus, including original features such as &quot;Guard Breaks&quot; (unique moves which cannot be blocked by an opponent) and &quot;Super Canceling&quot; (the ability to cancel a Super Combo into another Super Combo).
+
+The primary new feature in the game are &quot;Excel Combos&quot;, (&quot;excel&quot; being abbreviation for &quot;extra cancel&quot;). Much like the &quot;Custom Combos&quot; featured in the Street Fighter Alpha series, Excel Combos allows player to connect a series of basic and special moves for a limited time. During an Excel Combo, the player begins with a basic move and can follow up with a different basic move or follow-up a basic move with a special move, which can be followed by a different special move. However, the player cannot connect any move with the same move, nor can they cancel special moves into basic moves during an Excel Combo.</desc>
+	
+		
+	<image>~/.emulationstation/downloaded_images/mame-mame4all/hsf2-image.png</image>
+	
+		
+	<rating>0.8</rating>
+	
+		
+	<releasedate>19980526T000000</releasedate>
+	
+		
+	<developer>Arika</developer>
+	
+		
+	<publisher>Capcom</publisher>
+	
+		
+	<genre>Fighting</genre>
+	
+		
+	<players>2</players>
+	
+		
+	<playcount>2</playcount>
+	
+		
+	<lastplayed>20150714T004630</lastplayed>
+	
+	
+</game>
